@@ -1,0 +1,24 @@
+
+
+.like{
+
+    color: rgb(3, 63, 3);
+}
+
+body{
+    background-color: bisque;
+}
+
+.btn-first{
+    background-color: aquamarine;
+}
+
+.btn{
+
+    background-color: rgb(212, 184, 238);
+}
+
+h1 span {
+    color: rgb(179, 6, 6);
+    font-weight: bold;
+}
